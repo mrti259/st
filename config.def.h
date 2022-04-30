@@ -8,7 +8,7 @@
 static char *font = "source code pro:pixelsize=14:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"Liberation Mono:pixelsize=14:antialias=true:autohint=true", 
+	"monospace:pixelsize=14:antialias=true:autohint=true", 
 };
 
 static int borderpx = 2;
